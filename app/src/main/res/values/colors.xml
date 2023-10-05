@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main_color_bg_white">#F8F8F8</color>
+    <color name="green_text">#4C5743</color>
+    <color name="main_screen_shape">#5D6E4F</color>
+    <color name="dashboard_text_shape_button">#EDEDE3</color>
+    <color name="green_shape_bg">#74825D</color>
+    <color name="card_button">#F2F2E8</color>
+    <color name="spice_result_bg">#FCFBF8</color>
+
+<!--    indicator_layout (yang dot dot bulet2)-->
+    <color name="inactive">#c4c4c4</color>
+    <color name="active">#4C5743</color>
+
+<!--    Grey bg xml-->
+    <color name="image_bg">#EDEDE3</color>
+
+<!--    button-->
+    <color name="button_color">#74825D</color>
+
+
+
+
+</resources>

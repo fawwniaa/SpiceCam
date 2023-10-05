@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">SpiceCam</string>
+    <!-- Headings -->
+    <string name="heading_one">Let’s Go Explore \n Indonesian Spices</string>
+    <string name="heading_two">Let’s Go Explore \n Indonesian Spices</string>
+    <string name="heading_three">Let’s Go Explore \n Indonesian Spices</string>
+
+    <!-- Description -->
+    <string name="desc_one">Identify your spices in \n one click away</string>
+    <string name="desc_two">Spice wisdom, one \n click</string>
+    <string name="desc_three">Taste the world\'s \n palette.</string>
+
+    <!-- Dashboard Main  -->
+    <string name="intro_text">Welcome, to Spice\nCam!</string>
+    <string name="intro_desc">you can classify your\nspice here</string>
+
+    <!--Card spice news-->
+    <string name="title_example">Jahe, rempah-rempah\npenyelamat di musim hujan</string>
+
+</resources>
