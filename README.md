@@ -22,8 +22,10 @@ Welcome to Spice Cam, your go-to app for identifying spices using the power of i
 
 ## Features
 
-📷 **Image Classification**: Identify spices belonging to the Zingiberaceae family, specifically Jahe (Ginger), Kencur (Sand Ginger), Temulawak (Curcuma), Kunyit (Turmeric), and Lengkuas (Galangal).. \d
-🔍 **Detailed Information**: Get spice names, latin name, smell, color, shape, related information and news. \d
+📷 **Image Classification**: Identify spices belonging to the Zingiberaceae family, specifically Jahe (Ginger), Kencur (Sand Ginger), Temulawak (Curcuma), Kunyit (Turmeric), and Lengkuas (Galangal)  
+
+🔍 **Detailed Information**: Get spice names, latin name, smell, color, shape, related information and news. 
+
 📸 **Snap and Learn**: Learn about new spices as you explore the culinary world.
 
 ## Screenshots
