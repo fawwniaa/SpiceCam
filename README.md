@@ -1,7 +1,7 @@
 # Spice Cam 🌶️
 
 <p align="center">
-  <img src="spice-cam-logo.png" alt="Spice Cam Logo">
+  <img src= "images/logo.png" alt="Spice Cam Logo">
 </p>
 
 Welcome to Spice Cam, your go-to app for identifying spices using the power of image classification. Say goodbye to spice confusion in the kitchen!
