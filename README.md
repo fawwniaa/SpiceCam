@@ -31,8 +31,7 @@ Welcome to Spice Cam, your go-to app for identifying spices using the power of i
 ## Screenshots
 
 <p align="center">
-  <img src="spiceCamUI.jpg" alt="Screenshot 1" width="250">
-  
+  <img src="images/spiceCamUI.jpg" alt="Screenshot 1" width="250">
 </p>
 
 ## Getting Started
